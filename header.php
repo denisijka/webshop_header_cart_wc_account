@@ -1,3 +1,4 @@
+//це якшо в шапці треба розташувати кошик та аккаунт
 if ( ! function_exists( 'webshop_header_actions_markup' ) ) {
 
 	/**
